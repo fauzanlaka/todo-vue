@@ -1,5 +1,5 @@
 <template>
     <div class="flex-center">
-        Landing page
+        Welcome to fauzan todo app
     </div>
 </template>
